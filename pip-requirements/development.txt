@@ -1,0 +1,8 @@
+ipython
+ipdb
+flake8
+mypy
+pylint
+isort
+black
+pytest
